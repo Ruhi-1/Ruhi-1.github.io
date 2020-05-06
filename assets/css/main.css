@@ -3471,7 +3471,7 @@ input, select, textarea {
 
 			#intro {
 				padding: 2rem 2rem 1rem 2rem ;
-				min-height: 70vh;
+				min-height: 50vh;
 			}
 
 				#intro h1 {
@@ -3482,7 +3482,7 @@ input, select, textarea {
 
 				#intro p {
 					font-size: 1rem;
-					margin-top: 0rem;
+					margin-top: 2rem;
 				}
 
 				#intro .actions {
