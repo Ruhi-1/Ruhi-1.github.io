@@ -2206,7 +2206,7 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
+		box-shadow: inset 0 0 0 2px #22200e;
 		color: #212931 !important;
 	}
 
@@ -2215,8 +2215,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #2e6e80;
-			color: #2e6e80 !important;
+			box-shadow: inset 0 0 0 2px #9e8910;
+			color: #2c7d94 !important;
 		}
 
 		input[type="submit"].primary,
@@ -2234,7 +2234,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #2e6e80;
+				background-color: #2e6d80;
 			}
 
 /* Form */
@@ -2491,7 +2491,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #2e6e80;
+			border-color: #246575;
 		}
 
 	select {
@@ -2526,7 +2526,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #2e6e80;
+		border-color: #2d7983;
 	}
 
 	::-webkit-input-placeholder {
