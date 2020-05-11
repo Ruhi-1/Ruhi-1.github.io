@@ -3314,21 +3314,21 @@ input, select, textarea {
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #080808;
+			color: #dd4f0d;
 		}
 
 		#intro a {
-			color: #070707;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			color: #dd4f0d;
+			border-bottom-color: #dd4f0d;
 		}
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #2e6e80 !important;
+				color: #dd4f0d !important;
 			}
 
 		#intro strong, #intro b {
-			color: #111010;
+			color: #dd4f0d;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
@@ -3341,7 +3341,7 @@ input, select, textarea {
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #080808;
+			border-color: #140e0b;
 		}
 
 		#intro hr {
@@ -3354,7 +3354,7 @@ input, select, textarea {
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #494545;
+			box-shadow: inset 0 0 0 2px #161414;
 			color: #030303 !important;
 		}
 
@@ -3363,8 +3363,8 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #2e6e80;
-				color: #2e6e80 !important;
+				box-shadow: inset 0 0 0 2px #dd4f0d;
+				color: #dd4f0d !important;
 			}
 
 			#intro input[type="submit"].primary,
